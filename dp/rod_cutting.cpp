@@ -60,7 +60,7 @@
      return revenue;
  }
 
- // Botto-Up
+ // Bottom-Up
  int rod_cut (int n) {
      if (n == 0)
         return 0;
